@@ -371,7 +371,7 @@ def nanoua():
     jeeck('\x1b[0;36m[\x1b[0;00m+\x1b[0;36m]\x1b[0;00m Anda Akan Di Arahkan Ke Browser')
     jeeck('\x1b[0;36m[\x1b[0;00m+\x1b[0;36m]\x1b[0;00m Please Enter Untuk melanjutkan ke browser\n\n\n')
     raw_input('\x1b[0;36m[\x1b[0;00m ENTER JENK \x1b[0;36m]')
-    os.system('xdg-open  https://gist.github.com/pzb/b4b6f57144aea7827ae4')
+    os.system('xdg-open  https://github.com/faizihack/jh/blob/main/Approval.txt')
     xnanopasang()
 
 
