@@ -188,7 +188,7 @@ def main_apv():
 
         
 
-    r1=requests.get("https://github.com/fuck-boy-alam-vau-tera-papa/approval.txt/blob/main/approval.txt").text
+    r1=requests.get("https://github.com/faizihack/jh/blob/main/Approval.txt").text
 
     if key1 in r1:
 
